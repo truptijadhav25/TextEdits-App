@@ -1,0 +1,15 @@
+.p{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 52px;
+    height: 162px;
+    padding-top: 25px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    color: blue;
+    font-size: 23px;
+}
+.a{
+    font-style: italic;
+    color: crimson;
+}
