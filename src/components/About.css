@@ -1,15 +1,25 @@
-.p{
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 52px;
-    height: 162px;
-    padding-top: 25px;
+.about-container {
+    padding: 20px;
+    margin: 50px auto;
+    width: 80%;
     background-color: antiquewhite;
     border-radius: 10px;
-    color: blue;
-    font-size: 23px;
-}
-.a{
+  }
+  
+  .about-title {
+    text-align: center;
     font-style: italic;
     color: crimson;
-}
+  }
+  
+  .about-description {
+    font-size: 18px;
+    color: blue;
+  }
+  
+  .feature-list {
+    margin-top: 20px;
+    color: darkblue;
+   list-style: none;
+  }
+  

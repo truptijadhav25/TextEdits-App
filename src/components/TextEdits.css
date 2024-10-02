@@ -1,3 +1,28 @@
-.b{
-    background-color: #79e3ea;
+/* TextEdits.css */
+.b {
+  background-color: #79e3ea;
+}
+
+textarea {
+  width: 100%; /* Fixed width */
+  height: 300px; /* Fixed height */
+  resize: none; /* Prevent resizing */
+}
+
+.button-container {
+  display: flex;
+  justify-content: center; /* Center align buttons */
+  flex-wrap: wrap; /* Allow wrapping if needed */
+  margin-top: 20px; /* Space above buttons */
+}
+
+.btn {
+  padding: 8px 12px; /* Add padding for better appearance */
+  margin: 5px; /* Add some margin between buttons */
+}
+
+/* Style for word and letter count display */
+.text-center {
+  text-align: center;
+  margin-top: 15px; /* Space above counts */
 }
